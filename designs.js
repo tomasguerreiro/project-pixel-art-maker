@@ -3,12 +3,8 @@
 
 const pixelCanvas =  $('#pixelCanvas');
 
-
 // When size is submitted by the user, call makeGrid()
 function makeGrid(height, weight) {
-    console.log(height);
-    console.log(weight);
-
     //Cria o GRID
     for (let h = 0; h < height; h++) {
         pixelCanvas.append('<tr></tr>');      
@@ -20,7 +16,7 @@ function makeGrid(height, weight) {
 }
 
 $(pixelCanvas).on('click', 'td', function(){
-
+    $(this).css("background-color", $("#colorPicker").val());
 });
 
 
