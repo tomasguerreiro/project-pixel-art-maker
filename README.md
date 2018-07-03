@@ -1,16 +1,22 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+LINK: https://tomasguerreiro.github.io/project-pixel-art-maker/
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Notas Importantes
+* Feito como parte do programa Nanodegree (IPND) de Udacity de Fundamentos de Web Front-End.
+* Códico inicial fornecido pela [Udacity](https://github.com/udacity/project-pixel-art-maker-starter) com HTML, CSS.
+    * Incorporado como fork
 
-## Instructions
+## Dependências
 
-To get started, open `designs.js` and start building out the app's functionality.
+* [jQuery (lib)](https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js);
+* [Google Fonts (Monoton)](https://fonts.googleapis.com/css?family=Monoton);
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Contributing
+## Iniciando o Projeto
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+* Voce pode jogar diretamente [aqui](https://tomasguerreiro.github.io/project-pixel-art-maker/);
+* Fazer um [clone](https://github.com/tomasguerreiro/project-pixel-art-maker.git) do projeto;
+    * Execute o arquivo index.html
+* Fazer o [download](https://github.com/tomasguerreiro/project-pixel-art-maker/archive/master.zip) diretamente.
+    * Execute o arquivo index.html
